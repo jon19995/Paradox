@@ -1,0 +1,11 @@
+:root {
+    --color-grey: #8E9CBB;
+    --color-blue: #0066FF;
+    --color-pink: #FF238D;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}

@@ -1,0 +1,32 @@
+i.icon {
+    width: 16px;
+    height: 15px;
+    display: inline-block;
+    background-size: cover;
+}
+
+i.icon-search {
+    background-image: url("../assets/svg/search-icon.svg");
+}
+
+i.icon-close {
+    background-image: url("../assets/svg/close-icon.svg");
+}
+
+i.icon-delete {
+    width: 11px;
+    height: 13px;
+    background-image: url("../assets/svg/delete-icon.svg");
+}
+
+i.icon-edit {
+    width: 12px;
+    height: 12px;
+    background-image: url("../assets/svg/edt-icon.svg");
+}
+
+i.icon-move {
+    width: 8px;
+    height: 15px;
+    background-image: url("../assets/svg/move-icon.svg");
+}
